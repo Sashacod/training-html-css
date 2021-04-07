@@ -1,0 +1,24 @@
+header {
+    background-color: red;
+}
+body {
+    background-color: royalblue;
+}
+.icon_home {
+    background-color: seagreen;
+}
+.icon_about_us {
+    background-color: violet;
+}
+#home_link {
+    background-color: chartreuse;
+}
+.icon_contacts {
+    background-color: seagreen;
+}
+.ol {
+    background-color:white;
+}
+.contacts {
+    background-color: cadetblue;
+}
